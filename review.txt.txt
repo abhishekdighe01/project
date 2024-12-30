@@ -1,0 +1,8 @@
+cd ondrive/desketop.
+cd folder name(abhi)
+git init
+git add (txt.file)/nahi zal tr git add .
+git commit -m ""
+git remote origin https//GitHub.com/abhishekdighe01/(repo name).git
+git push -u origin master
+git status
